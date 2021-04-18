@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm SUGIT, and here is my Laboratory.
-
-My role is Full-Peratto Engineer.
-Full-Peratto Engineer is making any code in any layer, but it might be Peratto.
+I'm SUGIT, Full-Peratto Engineer.
+Any code in any layer, but it might be Peratto.
 
 > Peratto: "superficial" in Japanese...
 
