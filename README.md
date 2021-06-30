@@ -13,7 +13,7 @@ Any code in any layer, but it might be Peratto.
   - 🌱 AWS, GCP
 - History
   - [Master Thesis](http://www-optima.amp.i.kyoto-u.ac.jp/papers/master/2014_master_sugimoto.pdf)
-  - After graduating above, I've been working in Kyoto as software engineer and scientist.
+  - After graduated, I've been working in Kyoto as software engineer and scientist.
 
 ---
 
