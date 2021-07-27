@@ -1,9 +1,4 @@
-### Hi there 👋
-
-I'm SUGIT, Full-Peratto Engineer.
-Any code in any layer, but it might be Peratto.
-
-> Peratto means "superficial".
+SUGIT, Software Engineer.
 
 ---
 
@@ -13,7 +8,9 @@ Any code in any layer, but it might be Peratto.
   - 🌱 AWS, GCP
 - History
   - [Master Thesis](http://www-optima.amp.i.kyoto-u.ac.jp/papers/master/2014_master_sugimoto.pdf)
-  - After graduated, I've been working in Kyoto as software engineer and scientist.
+  - Working in Kyoto as software engineer and scientist.
+  - Solo iOS developer.
+  - [TechTrain](https://techbowl.co.jp/techtrain/mentors/116) mentor.
 
 ---
 
