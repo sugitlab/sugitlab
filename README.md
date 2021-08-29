@@ -4,13 +4,13 @@ SUGIT, Software Engineer.
 
 - Skills
   - 🌸 C++, C#, .Net, ASP.Net, React, JavaScript, TypeScript, Flutter
-  - 🪴 HTML, CSS, Python, Dart, Machine Learning, Nextjs, Gatsbyjs, Firebase
+  - 🪴 HTML, CSS, Python, Dart, Machine Learning, Nextjs, Gatsbyjs, Firebase, Supabase
   - 🌱 AWS, GCP
 - History
   - [Master Thesis](http://www-optima.amp.i.kyoto-u.ac.jp/papers/master/2014_master_sugimoto.pdf)
   - Working in Kyoto as software engineer and scientist.
 - Side
-  - Solo iOS developer.
+  - Solo developer.
   - [TechTrain](https://techbowl.co.jp/techtrain/mentors/116) mentor.
 
 ---
