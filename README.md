@@ -3,9 +3,9 @@ SUGIT, Software Engineer.
 ---
 
 - Skills
-  - HIGH: C++, C#, .Net, ASP.Net, React, Next.js, JavaScript, TypeScript, Flutter, Dart
-  - MIDDLE: HTML, CSS, Python, Machine Learning, Gatsbyjs, Firebase, Supabase
-  - BEGINNER: AWS, GCP
+  - 👍 C++, C#, .Net, ASP.Net, React, Next.js, JavaScript, TypeScript, Flutter, Dart
+  - 😃 HTML, CSS, Python, Machine Learning, Gatsbyjs, Firebase, Supabase
+  - 🧑‍🎓 AWS, GCP
 - History
   - Kyoto Institute of Technology, Informatics Science.
   - Graduate School of Kyoto University, Mathematical Optimization Lab.
