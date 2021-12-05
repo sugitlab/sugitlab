@@ -9,7 +9,7 @@ SUGIT, Software Engineer.
 - History
   - Kyoto Institute of Technology, Informatics Science.
   - Graduate School of Kyoto University, Mathematical Optimization Lab.
-  - Working in Kyoto as software engineer and scientist. (SHIMADZU.corp)
+  - Working in Kyoto as software engineer and scientist.
 - Side-work
   - Sunday programmer.
   - [TechTrain](https://techbowl.co.jp/techtrain/mentors/116) mentor.
