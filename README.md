@@ -5,7 +5,7 @@ SUGIT, Software Engineer.
 - Skills
   - 🥇 C++, C#, React, Next.js, JavaScript, TypeScript, Flutter, Dart,
   - 🥈 .Net Core, ASP.Net Core, HTML, CSS, Python, Machine Learning, Gatsbyjs, Firebase
-  - 🥉 Supabase, AWS, GCP
+  - 🥉 Supabase, AWS, GCP, Laravel, Go
 - History
   - Kyoto Institute of Technology, Informatics Science.
   - Graduate School of Kyoto University, Mathematical Optimization Lab.
@@ -14,6 +14,8 @@ SUGIT, Software Engineer.
   - Sunday programmer.
   - TechBlog: [Zenn](https://zenn.dev/sugitlab) 
   - [TechTrain](https://techbowl.co.jp/techtrain/mentors/116) mentor.
+  - Software Design Flutter Series (from Nov. 2022)
+  - Techpit [Flutter Cource](https://www.techpit.jp/courses/238)
 
 ---
 
