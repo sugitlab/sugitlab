@@ -13,7 +13,7 @@ SUGIT, Software Engineer.
 - Side-work
   - Sunday programmer.
   - TechBlog: [Zenn](https://zenn.dev/sugitlab) 
-  - [TechTrain](https://techbowl.co.jp/techtrain/mentors/116) mentor.
+  - [TechTrain](https://techtrain.dev/mentors/116) mentor.
   - Software Design Flutter Series (from Nov. 2022)
   - Techpit [Flutter Cource](https://www.techpit.jp/courses/238)
 
