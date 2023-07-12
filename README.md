@@ -15,8 +15,9 @@ SUGIT, Software Engineer.
   - Sunday programmer.
   - TechBlog: [Zenn](https://zenn.dev/sugitlab) 
   - [TechTrain](https://techtrain.dev/mentors/116) mentor.
-  - Software Design Flutter Series (from Nov. 2022)
   - Techpit [Flutter Cource](https://www.techpit.jp/courses/238)
+- Books
+  - [Amazon Author](https://www.amazon.co.jp/%E6%9D%89%E6%9C%AC-%E7%9C%9F%E4%BA%8C/e/B0BVLDNSQF/ref=dp_byline_cont_book_7)
 
 ---
 
