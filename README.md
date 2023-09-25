@@ -7,10 +7,10 @@ SUGIT, Software Engineer.
   - 🥈 HTML, CSS, Python, Machine Learning, Firebase, Swift, Unity
   - 🥉 Supabase, AWS, GCP, Laravel, Go
 - History
-  - Kyoto Institute of Technology, Informatics Science.
-  - Graduate School of Kyoto University, Mathematical Optimization Lab.
-  - Software engineer and scientist, in Kyoto.
-  - Product Manager at TechBowl, [TechTrain](https://techtrain.dev)
+  - ~ 2012: Kyoto Institute of Technology, Informatics Science.
+  - ~ 2014: Graduate School of Kyoto University, Mathematical Optimization Lab.
+  - ~ 2022: Software engineer and scientist, in Kyoto.
+  - Present: Product Manager at TechBowl, [TechTrain](https://techtrain.dev)
 - Side-work
   - Sunday programmer.
   - TechBlog: [Zenn](https://zenn.dev/sugitlab) 
