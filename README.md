@@ -1,17 +1,18 @@
-SUGIT, Software Engineer.
+SUGIT, Product Manager & Software Engineer　.
 
 ---
 
 - Skills
-  - 🥇 C++, C#, .Net, React, Next.js, JavaScript, TypeScript, Flutter, Dart,
+  - 💰 Product Management, Project Management
+  - 🥇 C++, C#, .Net, React.js, Next.js, JavaScript, TypeScript, Flutter, Dart,
   - 🥈 HTML, CSS, Python, Machine Learning, Firebase, Swift, Unity
   - 🥉 Supabase, AWS, GCP, Laravel, Go
 - History
   - ~ 2012: Kyoto Institute of Technology, Informatics Science.
   - ~ 2014: Graduate School of Kyoto University, Mathematical Optimization Lab.
   - ~ 2022: Software engineer and scientist, in Kyoto.
-  - Present: Product Manager at TechBowl, [TechTrain](https://techtrain.dev)
-- Side-work
+  - Present: CPO at TechBowl, [TechTrain](https://techtrain.dev)
+- Side
   - Sunday programmer.
   - TechBlog: [Zenn](https://zenn.dev/sugitlab) 
   - [TechTrain](https://techtrain.dev/mentors/116) mentor.
