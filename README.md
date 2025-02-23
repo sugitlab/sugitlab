@@ -2,23 +2,10 @@ SUGIT, Product Manager & Software Engineer　.
 
 ---
 
-- Skills
-  - 💰 Product Management, Project Management
-  - 🥇 C++, C#, .Net, React.js, Next.js, JavaScript, TypeScript, Flutter, Dart,
-  - 🥈 HTML, CSS, Python, Machine Learning, Firebase, Swift, Unity
-  - 🥉 Supabase, AWS, GCP, Laravel, Go
-- History
-  - ~ 2012: Kyoto Institute of Technology, Informatics Science.
-  - ~ 2014: Graduate School of Kyoto University, Mathematical Optimization Lab.
-  - ~ 2022: Software engineer and scientist, in Kyoto.
-  - Present: CPO at TechBowl, [TechTrain](https://techtrain.dev)
-- Side
-  - Sunday programmer.
-  - TechBlog: [Zenn](https://zenn.dev/sugitlab) 
-  - [TechTrain](https://techtrain.dev/mentors/116) mentor.
-  - Techpit [Flutter Cource](https://www.techpit.jp/courses/238)
-- Books
-  - [Amazon Author](https://www.amazon.co.jp/%E6%9D%89%E6%9C%AC-%E7%9C%9F%E4%BA%8C/e/B0BVLDNSQF/ref=dp_byline_cont_book_7)
+- Blog: [Zenn](https://sugitlab.dev/)
+- [TechTrain](https://techtrain.dev/mentors/116) mentor.
+- Techpit [Flutter Cource](https://www.techpit.jp/courses/238)
+- [Amazon Author](https://www.amazon.co.jp/%E6%9D%89%E6%9C%AC-%E7%9C%9F%E4%BA%8C/e/B0BVLDNSQF/ref=dp_byline_cont_book_7)
 
 ---
 
