@@ -1,7 +1,8 @@
-SUGIT, Product Manager & Software Engineer　.
+SUGIT, Product Manager & Software Engineer.
 
 ---
 
+- Portfolio: [https://sugitlab.dev](https://sugitlab.dev)
 - Blog: [Zenn](https://sugitlab.dev/)
 - [TechTrain](https://techtrain.dev/mentors/116) mentor.
 - Techpit [Flutter Cource](https://www.techpit.jp/courses/238)
